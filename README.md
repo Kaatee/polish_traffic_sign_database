@@ -8,3 +8,7 @@ Dataset was divided into training and test dataset
 Traffic sign database id divided into 2 parts:
 - merged file: all sign are in in the same folder, class is indicated in csv file
 - split: signs are split to directories - each class into separate dir 
+
+License: Open Database
+
+
